@@ -1,0 +1,10 @@
+.pln-container{
+    height: 100%;
+}
+
+.pln-list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 2em;
+}
